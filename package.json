@@ -19,6 +19,8 @@
   },
   "dependencies": {
     "body-parser": "^1.15.2",
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "minimist": "^1.2.8",
+    "progress": "^2.0.3"
   }
 }
